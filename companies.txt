@@ -1,0 +1,2 @@
+C1;Infosys;1234567;infy.com;infy street
+C2;Wipro ltd;1234;wipro.com;10, Power Street
